@@ -1,2 +1,2 @@
 # Grezzi.github.io
-my blog with Hexo theme
+my blog based on github 
